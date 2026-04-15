@@ -2,9 +2,9 @@
 
 # 深度-鲁迅.skill
 
-<p><em>「凡是愚弱的国民，即使体格如何健全，也只能做毫无意义的示众的材料和看客。」</em></p>
+> <p><em>「凡是愚弱的国民，即使体格如何健全，也只能做毫无意义的示众的材料和看客。」</em></p>
 
-> **基于 71k 字原始语料、15 部核心著作集、10+ 场真实访谈与百余封书信、15+ 种外部批评视角、7 个重大人生决策及完整生平时间线的深度调研，提炼出 5 个核心心智模型、4 条决策启发式和绝对排他的表达 DNA。**
+**基于 71k 字原始语料、15 部核心著作集、10+ 场真实访谈与百余封书信、15+ 种外部批评视角、7 个重大人生决策及完整生平时间线的深度调研，提炼出 5 个核心心智模型、4 条决策启发式和绝对排他的表达 DNA。**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Skill Category: Psychology/Logic](https://img.shields.io/badge/Category-Cognitive--Logic-blue)](https://skills.sh)
