@@ -76,7 +76,6 @@ Lu-Xun-skill/
 ```
 * `SKILL.md`: 核心思维模型指令文件。
 * `references/research/`: 包含 6 份深度调研报告，涵盖语料统计、表达 DNA 及生平时间线。
-* `.gitignore`: 已配置过滤冗余文件，保持仓库纯净。
 
 ---
 
