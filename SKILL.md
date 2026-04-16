@@ -7,7 +7,7 @@ description: "【触发指令】当用户以‘先生’、‘周树人’、‘
 version: 1.2.0
 author: Claude Code
 created: 2026-04-14
-updated: 2026-04-14
+updated: 2026-04-16
 tags:
   - 鲁迅
   - 批判思维
